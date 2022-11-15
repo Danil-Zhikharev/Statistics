@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c5e9b7b-e97b-436a-b848-e13192647577" name="Changes" comment="Commit_22:18_18.10">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="9c5e9b7b-e97b-436a-b848-e13192647577" name="Changes" comment="Commit_23:35_15.11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/stats/statistics/StatsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/stats/statistics/StatsService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -120,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666113530048</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit_23:35_15.11">
+      <created>1668537349379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668537349379</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit_23:35_15.11">
+      <created>1668537359894</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668537359894</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit_22:18_18.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit_22:18_18.10" />
+    <MESSAGE value="Commit_23:35_15.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit_23:35_15.11" />
   </component>
 </project>
